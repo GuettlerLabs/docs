@@ -25,4 +25,16 @@ Next, we'll go over how to install the Tailscale VPN and access the server.
 
 ![](/assets/images/Tailscale-Logo-Black.svg.png)
 
+Tailscale isn't what you might think of when a VPN is mentioned; rather than being used to pass content filters or hide network traffic, it's used to link
+devices together as if they were on the same private network.
 
+These instructions were written and tested while using a Windows 11 laptop with Firefox. The process will likely be the same on other Windows versions or with other browsers, but it may not look exactly the same.
+
+1. Navigate to the <a href="https://tailscale.com" target="_blank" rel="noopener noreferrer">Tailscale website</a>.
+
+![](/assets/screenshots/tailscale-home.png)
+
+2. In the top right corner of the page, click the "Try for free" button. [^1]
+
+
+[^1]: For our use case, Tailscale is completely free. You don't even need to provide any payment method.
