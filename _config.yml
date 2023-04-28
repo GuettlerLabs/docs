@@ -5,3 +5,5 @@ theme: just-the-docs
 url: https://docs.guettlerlabs.com
 
 footer_content: "Favicon from <a href=\"https://icons8.com\">icons8</a>"
+
+favicon_ico: "/assets/images/icons8-open-book-96.png"
