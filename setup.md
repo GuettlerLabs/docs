@@ -38,8 +38,7 @@ These instructions were written and tested while using a Windows 11 laptop with 
 ![](/assets/screenshots/tailscale-home.png)
 
 {:style="counter-reset:step-counter 2"}
-3. You'll be asked to sign up using an "identity provider". Basically, rather than making you create another username and password, Tailscale just has you sign in\
-using another account, like when sites offer to let you "sign in with Google". I used a Google account to sign up, and that'll probably be the easiest method to use.
+3. You'll be asked to sign up using an "identity provider". Basically, rather than making you create another username and password, Tailscale just has you sign in using another account, like when sites offer to let you "sign in with Google". I used a Google account to sign up, and that'll probably be the easiest method to use.
 
 ![](/assets/screenshots/tailscale-sign-up.png)
 
