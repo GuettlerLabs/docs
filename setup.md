@@ -37,5 +37,6 @@ These instructions were written and tested while using a Windows 11 laptop with 
 {:style="counter-reset:step-counter 2"}
 2. In the top right corner of the page, click the "Try for free" button. [^1]
 
+---
 
 [^1]: For our use case, Tailscale is completely free. You don't even need to provide any payment method.
