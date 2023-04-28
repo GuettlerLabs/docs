@@ -23,3 +23,6 @@ Next, we'll go over how to install the Tailscale VPN and access the server.
 
 ## Installing Tailscale
 
+![](/assets/images/Tailscale-Logo-Black.svg.png)
+
+
