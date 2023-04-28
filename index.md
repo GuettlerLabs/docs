@@ -14,4 +14,4 @@ This is a documentation site which provides setup instructions for accessing Jel
 
 For other information, use the search bar or navigate the site using the links on the left side.
 
-[Setup]: "setup"
+[Setup]: setup
