@@ -34,6 +34,7 @@ These instructions were written and tested while using a Windows 11 laptop with 
 
 ![](/assets/screenshots/tailscale-home.png)
 
+{:style="counter-reset:step-counter 2"}
 2. In the top right corner of the page, click the "Try for free" button. [^1]
 
 
