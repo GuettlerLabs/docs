@@ -7,7 +7,7 @@ layout: home
 
 ---
 
-![](/Jelly-banner-light.svg)
+![](/assets/images/Jelly-banner-light.svg)
 
 This is a documentation page which provides setup instructions for accessing Jellyfin, in addition to other helpful tips and tricks. To begin, click on the [Setup] page in the sidebar.
 
