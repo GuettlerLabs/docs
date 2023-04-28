@@ -25,7 +25,7 @@ Next, we'll go over how to install the Tailscale VPN and access the server.
 
 ![](/assets/images/Tailscale-Logo-Black.svg.png)
 
-Tailscale isn't what you might think of when a VPN is mentioned; rather than being used to pass content filters or hide network traffic, it's used to link
+Tailscale isn't what you might think of when a VPN is mentioned; rather than being used to get past content filters or hide network traffic, it's used to link
 devices together as if they were on the same private network.
 
 These instructions were written and tested while using a Windows 11 laptop with Firefox. The process will likely be the same on other Windows versions or with other browsers, but it may not look exactly the same.
