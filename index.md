@@ -11,6 +11,4 @@ This is a documentation page which provides setup instructions for accessing Jel
 
 ---
 
-[^1] Favicon for this site is from [icons8]
-
 [icons8]: https://icons8.com
